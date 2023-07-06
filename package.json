@@ -1,7 +1,7 @@
 {
-  "name": "greenme-be-js-starter",
+  "name": "document-management",
   "version": "0.1.0",
-  "description": "Backend service js starter pack",
+  "description": "document management",
   "main": "./src/server.js",
   "type": "module",
   "scripts": {
